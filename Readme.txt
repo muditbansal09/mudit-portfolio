@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+Here is my code to Personal portfolio. 
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Site contains below section:
+1. Home
+2. About
+3. Skills
+4. Project
+5. Contact
+
+
+If you like this site please feel free to reach out to me at muditbansal09@gmail.com. 
